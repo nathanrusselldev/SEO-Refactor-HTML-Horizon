@@ -7,6 +7,10 @@ Updates to HTML and CSS for accessibility
 Truncating of CSS to flow more semantically
 Truncating of CSS to allow for easier maintenance
 
+## Screenshot
+
+https://github.com/nathanrusselldev/SEO-Refactor-HTML-Horizon/blob/main/Website%20Example.png
+
 ## Installation
 
 git pull from git@github.com:nathanrusselldev/SEO-Refactor-HTML-Horizon.git
